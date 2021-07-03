@@ -6,3 +6,6 @@
 - `git log --oneline': shows you the one line version for log
 - 'git diff HEAD~<NUM> <FILE>: compares current file to file <NUM> ago
 	- git diff <HASH> <FILE>: compares current file to <HASH> version
+- `git checkout <HASH> <FILE>`: restore <FILE> to version in <HASH>
+- 'git status' to help yuo find the commands to unstage or restore file
+- If you run `git checkout" without the file... you can fix this by running 'git checkout main'
