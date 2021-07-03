@@ -12,3 +12,10 @@
 - git ignores empty folders
 - use `.gitkeep` to "keep" and empty folder
 - use `.gitignore` to ignore files/patterns
+	
+#remotes
+- `ssh-key`: to create ssh keys
+- `git remote add <URL>`: adds the url
+- ~git push origin main`: push to the main branch to the origin remote
+	
+
