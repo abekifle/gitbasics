@@ -1,4 +1,7 @@
+
 # 2021-07-01:git basics
+=======
+# Git Basics
 - `git init`: Initiailizae git repository in current working directory
 - `git status`: gives you the status
 - 'git add <FILE>: adds <FILE> to the staging area
@@ -18,5 +21,11 @@
 - `git remote add <URL>`: adds the url
 - ~git push origin main`: push to the main branch to the origin remote
 ` `git pull origin main`: pull from remote
+=======
+#Remotes
+- `ssh-key`: to create ssh keys
+- `git remote add <URL>`: adds the url
+- ~git push origin main`: push to the main branch to the origin remote
+- `
 	
 
