@@ -1,4 +1,4 @@
-# git basics
+# 2021-07-01:git basics
 - `git init`: Initiailizae git repository in current working directory
 - `git status`: gives you the status
 - 'git add <FILE>: adds <FILE> to the staging area
@@ -13,9 +13,10 @@
 - use `.gitkeep` to "keep" and empty folder
 - use `.gitignore` to ignore files/patterns
 	
-#remotes
+# REMOTES
 - `ssh-key`: to create ssh keys
 - `git remote add <URL>`: adds the url
 - ~git push origin main`: push to the main branch to the origin remote
+` `git pull origin main`: pull from remote
 	
 
